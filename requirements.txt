@@ -1,0 +1,11 @@
+# Python version
+# Recommended: Python 3.10+
+
+# Pandas: for reading and processing CSV files
+pandas>=1.5.0
+
+# SQLAlchemy: for connecting to and interacting with databases
+SQLAlchemy>=2.0.0
+
+# psycopg2-binary: PostgreSQL driver required by SQLAlchemy
+psycopg2-binary>=2.9.0
